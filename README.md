@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Gupta</h1>
-<h3 align="center">Hi there! 👋 I'm Vaibhav 🚀 Frontend Developer | React.js | Next.js | Web3 </h3> 
+<h3 align="center">Hi there! 👋 I'm Vaibhav, Frontend Developer | React.js | Next.js | Web3 </h3> 
 <p>Experienced frontend developer with 3+ years of experience in React, Next.js, TypeScript, Tailwind, Web3 and blockchain projects. Skilled in building scalable Web3 applications, integrating smart contracts, and following Agile best practices.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaebhav-98&label=Profile%20views&color=0e75b6&style=flat" alt="vaebhav-98" /> </p>
