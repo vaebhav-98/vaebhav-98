@@ -6,6 +6,8 @@
 
 <p align="left"> <a href="https://twitter.com/vaebhav_g" target="blank"><img src="https://img.shields.io/twitter/follow/vaebhav_g?logo=twitter&style=for-the-badge" alt="vaebhav_g" /></a> </p>
 
+- 🔭 I’m currently working on Web3 applications, DeFi platforms, and smart contract integrations.
+  
 - 👨‍💻 All of my projects are available at [https://vaibhav-dev.vercel.app/](https://vaibhav-dev.vercel.app/)
 
 - 📫 How to reach me **vaibhav101098@gmail.com**
